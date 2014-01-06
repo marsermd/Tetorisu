@@ -42,7 +42,7 @@
     <file path="/Direction.java" changelist="767b9d85-5602-4fe3-aba4-0d7a23c65948" time="1388939976273" ignored="false" />
     <file path="/TetraminoShapes.java" changelist="767b9d85-5602-4fe3-aba4-0d7a23c65948" time="1388948970232" ignored="false" />
     <file path="/fragment.java" changelist="767b9d85-5602-4fe3-aba4-0d7a23c65948" time="1388961570874" ignored="false" />
-    <file path="/TetraminoBuilder.java" changelist="767b9d85-5602-4fe3-aba4-0d7a23c65948" time="1388962457882" ignored="false" />
+    <file path="/TetraminoBuilder.java" changelist="767b9d85-5602-4fe3-aba4-0d7a23c65948" time="1389023330174" ignored="false" />
     <file path="/WorldGraphics.java" changelist="767b9d85-5602-4fe3-aba4-0d7a23c65948" time="1388957183493" ignored="false" />
     <file path="/FixedBoxLogic.java" changelist="767b9d85-5602-4fe3-aba4-0d7a23c65948" time="1388949414272" ignored="false" />
     <file path="/GameView.java" changelist="767b9d85-5602-4fe3-aba4-0d7a23c65948" time="1388957523833" ignored="false" />
@@ -109,7 +109,17 @@
     <favorites_list name="Tetorisu" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="17" selection-start="699" selection-end="699" vertical-scroll-proportion="0.425">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -119,11 +129,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/example/Tetorisu/WorldGraphics.java" />
         <option value="$PROJECT_DIR$/src/com/example/Tetorisu/BoxGraphics.java" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
         <option value="$PROJECT_DIR$/src/com/example/Tetorisu/Controller.java" />
-        <option value="$PROJECT_DIR$/src/com/example/Tetorisu/TetraminoBuilder.java" />
         <option value="$PROJECT_DIR$/src/com/example/Tetorisu/FreeBoxLogic.java" />
         <option value="$PROJECT_DIR$/src/com/example/Tetorisu/Logic.java" />
         <option value="$PROJECT_DIR$/src/com/example/Tetorisu/GameScreenActivity.java" />
@@ -135,12 +143,13 @@
         <option value="$PROJECT_DIR$/src/com/example/Tetorisu/Graphics.java" />
         <option value="$PROJECT_DIR$/src/com/example/Tetorisu/TetraminoShape.java" />
         <option value="$PROJECT_DIR$/src/com/example/Tetorisu/WorldLogic.java" />
+        <option value="$PROJECT_DIR$/src/com/example/Tetorisu/TetraminoBuilder.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="1932" />
+    <option name="width" value="1920" />
     <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -411,6 +420,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="767b9d85-5602-4fe3-aba4-0d7a23c65948" name="Default" comment="" />
@@ -420,8 +446,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="0" width="1932" height="1032" extended-state="1" />
-    <editor active="false" />
+    <frame x="0" y="0" width="1920" height="1032" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -438,7 +464,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24946466" sideWeight="0.630485" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2510776" sideWeight="0.630485" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -514,11 +540,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files (x86)/Android/android-sdk/platforms/android-18/android.jar!/java/util/ArrayList.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="73" selection-start="1432" selection-end="1432" vertical-scroll-proportion="1.0597303" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/Tetorisu/Controllable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="34" selection-start="187" selection-end="187" vertical-scroll-proportion="0.22884615">
@@ -568,36 +589,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/Tetorisu/Graphics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="59" selection-end="59" vertical-scroll-proportion="0.098076925">
-          <folding>
-            <element signature="e#202#212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/Tetorisu/Logic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="20" selection-start="409" selection-end="409" vertical-scroll-proportion="0.65384614">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/Tetorisu/TetraminoBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="48" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/Tetorisu/TetraminoLogic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="159" column="11" selection-start="4670" selection-end="4670" vertical-scroll-proportion="5.1980767">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1598#1605#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -630,6 +625,39 @@
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="45" selection-start="424" selection-end="424" vertical-scroll-proportion="0.32553193">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/Tetorisu/TetraminoLogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="63" selection-start="582" selection-end="582" vertical-scroll-proportion="0.5884615">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1598#1605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/Tetorisu/TetraminoBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="62" selection-start="560" selection-end="560" vertical-scroll-proportion="0.3596154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/Tetorisu/Graphics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="42" selection-start="473" selection-end="473" vertical-scroll-proportion="0.41153845">
+          <folding>
+            <element signature="e#202#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="17" selection-start="699" selection-end="699" vertical-scroll-proportion="0.425">
           <folding />
         </state>
       </provider>
